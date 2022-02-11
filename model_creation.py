@@ -1,4 +1,4 @@
-from sklearn.datasets import load_iris # used to get data
+c
 from sklearn.ensemble import RandomForestClassifier # classifier model used
 from sklearn.model_selection import train_test_split # used to test on data not used to train model
 from sklearn.metrics import accuracy_score # used to evaluate model
